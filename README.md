@@ -1,7 +1,7 @@
 # PowerApsis
 Powershell module to provide easy integration with Apsis Pro API
 
-This project is a wrap of the existing Apsis API functionality to cmdlets.
+This project is a wrap of the existing Apsis API functionality to cmdlets. It is in no way affiliated with the product or company.
 
 There are a number of requirements to use this module, which include an Apsis Pro account and API key. Contact APSIS for more information (https://apsis.se)
 
